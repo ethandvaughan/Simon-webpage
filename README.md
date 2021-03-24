@@ -6,7 +6,7 @@ Submitted by: **Ethan Vaughan**
 
 Time spent: **6** hours spent in total
 
-Link to project: (https://cdn.glitch.com/668311da-5685-401f-9ce8-c22146c6c500%2FSITE-prework.gif?v=1616607071907)
+Link to project: (https://sneaky-futuristic-birth.glitch.me)
 
 ## Required Functionality
 
@@ -40,7 +40,7 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-![](your-link-here)
+![x](https://cdn.glitch.com/668311da-5685-401f-9ce8-c22146c6c500%2FSITE-prework.gif?v=1616607071907)
 
 
 ## Reflection Questions
